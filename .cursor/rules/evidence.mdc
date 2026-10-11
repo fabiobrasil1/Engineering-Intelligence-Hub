@@ -1,0 +1,12 @@
+---
+description: Extração, preservação de fontes e rastreabilidade de evidências
+globs: "**/discovery/**/*.md,**/assessments/**/*.md,**/proposals/**"
+alwaysApply: false
+---
+- Leia docs/data-contracts.md antes de criar ou atualizar registros.
+- Cite IDs, headings estáveis e trechos que sustentem a interpretação.
+- Relatos não são medições; use epistemic_type adequado.
+- Preserve fontes originais e registre hashes base da proposta.
+- Reutilize entidades confirmadas; proponha novas entidades como draft.
+- Registre suporte, contradição, lacunas e perguntas de validação.
+- Não atualize hash stale sem conferir a fonte e revisar a evidência.

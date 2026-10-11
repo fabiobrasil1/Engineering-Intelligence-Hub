@@ -1,0 +1,11 @@
+---
+description: Diagnóstico transversal, desenho de pilotos e análise executiva
+alwaysApply: false
+---
+- Use o índice para localizar fontes e depois leia os registros selecionados.
+- Restrinja o contexto ao objetivo e declare fontes excluídas pelos limites.
+- Contagens, scores e métricas vêm da CLI; não recalcular informalmente no texto.
+- Recomendações devem incluir fontes, confiança, lacunas, riscos e próxima ação.
+- Não infira integrações pela coocorrência de sistemas.
+- Considere esforço, retrabalho e qualidade junto com velocidade.
+- Crie proposta revisável; preserve decisões aprovadas e histórico.

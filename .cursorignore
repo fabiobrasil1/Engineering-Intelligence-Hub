@@ -1,0 +1,8 @@
+.env
+.env.*
+config/hub.local.yaml
+data/private/
+data/real/
+workspace-local/
+audit-local/
+.venv/

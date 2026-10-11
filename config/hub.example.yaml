@@ -1,0 +1,18 @@
+# Caminhos relativos são resolvidos a partir deste arquivo.
+# Copie para config/hub.local.yaml (ignorado pelo Git) se precisar de ajuste local.
+schema_version: 1
+workspace: ../data/examples
+language: pt-BR
+timezone: America/Sao_Paulo
+mode: demo
+context:
+  max_files: 12
+  max_characters: 40000
+  include_restricted: false
+reports:
+  allow_unreviewed_sources: false
+prioritization:
+  impact_weight: 0.40
+  feasibility_weight: 0.25
+  reach_weight: 0.25
+  inverse_risk_weight: 0.10

@@ -1,0 +1,11 @@
+---
+description: Contratos, CLI e persistência Python
+globs: "src/**/*.py,tests/**/*.py,pyproject.toml"
+alwaysApply: false
+---
+- Use type hints e modelos explícitos; rejeite campos desconhecidos.
+- YAML seguro, sem chaves duplicadas; caminhos restritos ao workspace.
+- Regras de domínio não fazem I/O.
+- Gere JSON Schema dos modelos; valide também as relações entre arquivos.
+- Escritas preservam corpo, usam hash esperado e substituição atômica por arquivo.
+- Teste contratos, cálculos, conflitos, rastreabilidade e fluxo útil ao usuário.
