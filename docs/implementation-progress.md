@@ -50,7 +50,7 @@ Publicação inicial no GitHub após P0 ocorre **somente** se solicitada nesta c
 ### Pendências de P0
 
 - Nenhuma pendência de aceite da P0.
-- Snapshot GitHub: commit local `aca2dad` na branch `main`. O CLI `gh` está em `~/.local/bin/gh` mas **não autenticado**; o remoto ainda não foi criado. Pendente: `gh auth login` e `gh repo create` (recomendado `--private` até P8).
+- Snapshot GitHub: remoto [fabiobrasil1/Engineering-Intelligence-Hub](https://github.com/fabiobrasil1/Engineering-Intelligence-Hub) criado por você; push da P0 na branch `main`. Isso não conclui P8.
 
 ## Próximo prompt (P1 — nova conversa)
 
