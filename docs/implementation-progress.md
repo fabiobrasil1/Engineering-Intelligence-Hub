@@ -50,7 +50,7 @@ Publicação inicial no GitHub após P0 ocorre **somente** se solicitada nesta c
 ### Pendências de P0
 
 - Nenhuma pendência de aceite da P0.
-- Snapshot GitHub: solicitado pelo usuário após P0; registrar URL quando o remoto existir.
+- Snapshot GitHub: commit local `aca2dad` na branch `main`. O CLI `gh` está em `~/.local/bin/gh` mas **não autenticado**; o remoto ainda não foi criado. Pendente: `gh auth login` e `gh repo create` (recomendado `--private` até P8).
 
 ## Próximo prompt (P1 — nova conversa)
 
