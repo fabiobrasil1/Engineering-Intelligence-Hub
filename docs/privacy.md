@@ -22,4 +22,4 @@ Se dados reais entrarem no histórico Git, interromper a publicação até resol
 
 ## Licença
 
-MIT cobre o código original deste repositório. Não assume direitos sobre dados corporativos.
+O código original deste repositório está com todos os direitos reservados; não há licença MIT para uso, modificação ou distribuição. Não assume direitos sobre dados corporativos. Componentes de terceiros, se houver, mantêm as próprias licenças.

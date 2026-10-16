@@ -25,7 +25,7 @@ Publicação inicial no GitHub após P0 ocorre **somente** se solicitada nesta c
 ### Entregue
 
 - `plano.md` atualizado com a regra obrigatória de uma etapa por janela de contexto (versão 1.1).
-- `README.md`, `AGENTS.md`, `LICENSE` (MIT para o código original).
+- `README.md`, `AGENTS.md` e declaração de direitos sobre o código original (sem licença MIT).
 - `.gitignore`, `.cursorignore`.
 - `.cursor/rules/{project,evidence,analysis,python}.mdc`.
 - `config/hub.example.yaml` e `data/examples/workspace.yaml` (workspace demo vazio).
