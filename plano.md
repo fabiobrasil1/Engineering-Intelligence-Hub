@@ -1122,7 +1122,7 @@ Cada item P0–P8 é uma etapa isolada. Execute-a em uma janela de contexto pró
 
 ### P8 — Preparação para GitHub
 
-**Entregar:** README publicável, CONTRIBUTING, SECURITY, licença proposta, CI, locks, revisão de conteúdo e guia de publicação.
+**Entregar:** README publicável, CONTRIBUTING, SECURITY, declaração de direitos sobre o código original (sem MIT), CI, locks, revisão de conteúdo e guia de publicação.
 
 **Aceite:** só exemplos sintéticos; zero dado real rastreado; CI passa; referência a fontes técnicas; lista exata de arquivos e diff revisável. Não fazer push, criar repositório remoto ou alterar visibilidade sem instrução explícita.
 
@@ -1311,9 +1311,10 @@ Pare quando a V1 estiver pronta para uso e P7 aceito.
 ```text
 Execute somente P8 de @plano.md: preparar o projeto para GitHub.
 
-Revise README, CONTRIBUTING, SECURITY, locks e CI. Proponha MIT para o código
-original, sem assumir direitos sobre dados ou materiais corporativos. Deixe claro
-que exemplos são fictícios e que dados reais devem ficar em workspace externo.
+Revise README, CONTRIBUTING, SECURITY, locks e CI. Mantenha todos os direitos
+reservados sobre o código original (sem MIT), sem assumir direitos sobre dados
+ou materiais corporativos. Deixe claro que exemplos são fictícios e que dados
+reais devem ficar em workspace externo.
 
 CI com permissões mínimas, actions fixadas por SHA verificado e apenas dados
 sintéticos. Execute Ruff, mypy, pytest, schemas check, validação strict e smoke test.

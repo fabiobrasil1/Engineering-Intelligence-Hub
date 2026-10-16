@@ -67,7 +67,9 @@ hub --workspace data/examples report --type diagnosis --as-of 2026-11-01
 
 ## Licença
 
-O código original deste repositório é disponibilizado sob a [licença MIT](LICENSE). A licença não cobre dados reais, materiais corporativos ou conteúdo de terceiros. Exemplos em `data/examples` são fictícios.
+Todos os direitos reservados. O autor (Fabio Brasil) mantém o copyright exclusivo sobre o código original deste projeto. Não é concedida licença para uso, modificação ou distribuição desse código original.
+
+Componentes de terceiros, se houver, permanecem sob as respectivas licenças. Esta declaração não cobre dados reais, materiais corporativos ou conteúdo de terceiros. Exemplos em `data/examples` são fictícios.
 
 ## Segurança
 
